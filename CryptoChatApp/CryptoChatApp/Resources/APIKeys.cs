@@ -8,6 +8,6 @@ namespace CryptoChatApp.Resources
 {
     class APIKeys
     {
-        public string LoginWebAPIKey = "LoginWebAPIKey";
+        public static string LoginWebAPIKey = "LoginWebAPIKey";
     }
 }

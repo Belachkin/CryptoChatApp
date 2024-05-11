@@ -24,11 +24,23 @@ build_metadata.AdditionalFiles.ManifestResourceName = CryptoChatApp.AppShell.xam
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[F:/Code/Git/CryptoChatApp/CryptoChatApp/CryptoChatApp/CryptoChatApp/Dashboard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CryptoChatApp.Dashboard.xaml
+build_metadata.AdditionalFiles.TargetPath = Dashboard.xaml
+build_metadata.AdditionalFiles.RelativePath = Dashboard.xaml
+
 [F:/Code/Git/CryptoChatApp/CryptoChatApp/CryptoChatApp/CryptoChatApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CryptoChatApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[F:/Code/Git/CryptoChatApp/CryptoChatApp/CryptoChatApp/CryptoChatApp/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CryptoChatApp.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = RegisterPage.xaml
 
 [F:/Code/Git/CryptoChatApp/CryptoChatApp/CryptoChatApp/CryptoChatApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
