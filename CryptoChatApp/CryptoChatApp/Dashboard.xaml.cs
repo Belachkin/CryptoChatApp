@@ -24,10 +24,10 @@ public partial class Dashboard : ContentPage
             ApiKey = APIKeys.LoginWebAPIKey,
             AuthDomain = APIKeys.AuthDomain,
         });
-
+        //TEST
         // ѕолучаем информацию о текущем пользователе с использованием токена
-        var userData = 
-        UserEmail.Text = "Email" + userEmail;
+        //var userData = 
+        //UserEmail.Text = "Email" + userEmail;
 		
     }
 }
