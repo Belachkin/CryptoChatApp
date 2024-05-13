@@ -1,4 +1,6 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using Firebase.Auth;
+using Firebase.Auth.Providers;
+using Microsoft.Extensions.Logging;
 
 namespace CryptoChatApp
 {
@@ -15,6 +17,15 @@ namespace CryptoChatApp
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
+            //builder.Services.AddSingleton(new FirebaseAuthClient(new FirebaseAuthConfig()
+            //{
+            //    ApiKey = "key",
+            //    AuthDomain = "domain",
+            //    Providers = new FirebaseAuthProvider[]
+            //    {
+            //        new EmailProvider()
+            //    }
+            //}));
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif

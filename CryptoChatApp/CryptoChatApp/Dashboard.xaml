@@ -5,8 +5,8 @@
              Title="Dashboard"
              NavigationPage.HasNavigationBar="False">
     <VerticalStackLayout>
-        <Label 
-            Text="Welcome to Chat"
+        <Label            
+            x:Name="UserEmail"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
     </VerticalStackLayout>
